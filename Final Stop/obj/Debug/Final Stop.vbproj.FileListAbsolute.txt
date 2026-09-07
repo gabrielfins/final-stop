@@ -1,0 +1,561 @@
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\Final Stop.exe.config
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\Final Stop.exe
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\Final Stop.pdb
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\Final Stop.xml
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final Stop.vbprojAssemblyReference.cache
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final_Stop.frmCliente.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final_Stop.frmFornecedor.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final_Stop.frmFuncionario.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final_Stop.frmLogin.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final_Stop.frmMenu.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final_Stop.frmProduto.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final_Stop.Resources.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final Stop.vbproj.GenerateResource.cache
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final Stop.exe
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final Stop.xml
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final Stop.pdb
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\dbFinalStop.mdb
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final_Stop.cduSobre.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\EnvDTE.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\stdole.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioCliente.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\RdlCompile.cache
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\RdlCompile.compiled
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final Stop.vbproj.CopyComplete
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioFornecedor.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioFuncionario.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioProduto.resources
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\dbFinalStop.mdb
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\Final Stop.exe.config
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\Final Stop.exe
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\Final Stop.pdb
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\Final Stop.xml
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\stdole.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.vbprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.cduSobre.resources
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioFuncionario.resources
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioProduto.resources
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmCliente.resources
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmFornecedor.resources
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmFuncionario.resources
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmLogin.resources
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmMenu.resources
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmProduto.resources
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioCliente.resources
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioFornecedor.resources
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.Resources.resources
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.vbproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.vbproj.CopyComplete
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.exe
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.xml
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.pdb
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\RdlCompile.compiled
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\dbFinalStop.mdb
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\Final Stop.exe.config
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\Final Stop.exe
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\Final Stop.pdb
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\Final Stop.xml
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\EnvDTE.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\stdole.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.cduSobre.resources
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioFuncionario.resources
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioProduto.resources
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmCliente.resources
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmFornecedor.resources
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmFuncionario.resources
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmLogin.resources
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmMenu.resources
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmProduto.resources
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioCliente.resources
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioFornecedor.resources
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.Resources.resources
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.vbproj.GenerateResource.cache
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\RdlCompile.cache
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\RdlCompile.compiled
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.vbproj.CopyComplete
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.exe
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.xml
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.pdb
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.cduProjetosFuturos.resources
+C:\Users\gfigu\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.vbprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.cduProjetosFuturos.resources
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Final Stop.exe.config
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.exe
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.xml
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.pdb
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\dbFinalStop.mdb
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Final Stop.exe
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Final Stop.pdb
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Final Stop.xml
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\EnvDTE.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\stdole.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\EnvDTE80.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\VSLangProj.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\VSLangProj80.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\VSLangProj2.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\EnvDTE.xml
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\EnvDTE80.xml
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\VSLangProj.xml
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\VSLangProj80.xml
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\VSLangProj2.xml
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.vbprojResolveAssemblyReference.cache
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.cduProjetosFuturos.resources
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.cduSobre.resources
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioFuncionario.resources
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioProduto.resources
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmCliente.resources
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmFornecedor.resources
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmFuncionario.resources
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmLogin.resources
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmMenu.resources
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmProduto.resources
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioCliente.resources
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioFornecedor.resources
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final_Stop.Resources.resources
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\Final Stop.vbproj.GenerateResource.Cache
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\RdlCompile.cache
+C:\Users\LAB01-08\Desktop\Final Stop\Final Stop\obj\Debug\RdlCompile.compiled
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\dbFinalStop.mdb
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\Final Stop.exe.config
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\Final Stop.exe
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\Final Stop.pdb
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\Final Stop.xml
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\EnvDTE.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\stdole.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final Stop.vbprojAssemblyReference.cache
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.cduProjetosFuturos.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.cduSobre.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioFuncionario.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioProduto.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmCliente.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmFornecedor.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmFuncionario.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmLogin.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmMenu.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmProduto.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioCliente.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioFornecedor.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.Resources.resources
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final Stop.vbproj.GenerateResource.cache
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\RdlCompile.cache
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\RdlCompile.compiled
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final Stop.vbproj.CopyComplete
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final Stop.exe
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final Stop.xml
+C:\Users\gfigu\Documents\Programação\Visual Studio\vb.net\Final Stop\Final Stop\obj\Debug\Final Stop.pdb
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\dbFinalStop.mdb
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\Final Stop.exe.config
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\Final Stop.exe
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\Final Stop.pdb
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\Final Stop.xml
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\EnvDTE.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\stdole.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final Stop.vbprojAssemblyReference.cache
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.cduProjetosFuturos.resources
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.cduSobre.resources
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioFuncionario.resources
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioProduto.resources
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmCliente.resources
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmFornecedor.resources
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmFuncionario.resources
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmLogin.resources
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmMenu.resources
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmProduto.resources
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioCliente.resources
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.frmRelatorioFornecedor.resources
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final_Stop.Resources.resources
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final Stop.vbproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final Stop.vbproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final Stop.vbproj.CopyComplete
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final Stop.exe
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final Stop.xml
+C:\Users\Gabriel\Documents\Projetos\vb.net\Final Stop\Final Stop\obj\Debug\Final Stop.pdb

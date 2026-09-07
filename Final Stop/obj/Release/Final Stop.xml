@@ -1,0 +1,266 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Final Stop
+</name>
+</assembly>
+<members>
+<member name="T:Final_Stop.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.add">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.arrow_left">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.arrow_right">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.baseline_visibility_off_white_36dp">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.baseline_visibility_white_36dp">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.cliente2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.close">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.drop_image">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.edit">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.final_stop_icon_round_clean">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.final_stop_logo_new">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.final_stop_logo_new_no_borders">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.fornecedor">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.funcionario">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.minimize2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.pass">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.produto">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.remove">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.save">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.select_photo_new">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.seta_yellow">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.trash">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_Stop.My.Resources.Resources.user">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSet.tbClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSet.tbFornecedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSet.tbFuncionarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSet.tbProdutoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSet.tbClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSet.tbFornecedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSet.tbFuncionarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSet.tbProdutoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSet.tbClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSet.tbFornecedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSet.tbFuncionarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSet.tbProdutoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSetTableAdapters.tbClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSetTableAdapters.tbFornecedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSetTableAdapters.tbFuncionarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSetTableAdapters.tbProdutoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Final_Stop.dbFinalStopDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Final_Stop.dbFinalStopDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Final_Stop.dbFinalStopDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Final_Stop.dbFinalStopDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Final_Stop.dbFinalStopDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Final_Stop.dbFinalStopDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Final_Stop.dbFinalStopDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Final_Stop.dbFinalStopDataSetTableAdapters.TableAdapterManager.UpdateAll(Final_Stop.dbFinalStopDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Final_Stop.dbFinalStopDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
